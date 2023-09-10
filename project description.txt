@@ -1,0 +1,21 @@
+Data Dictionary
+---------------
+Date: Day, Month and year of each ATM transactions
+ATM ID: ID of each ATM
+Number of Trxs: Number of transactions
+Amount: The whole amount of transcations for each ATM
+Max amount: The maximum amount to fill the ATM
+
+Gaol
+-----
+1. Predict the amount on the next day for the ATMs
+
+Bouns gaol
+----------
+1. Predict the amount on the next 3 days for the ATMs
+
+Outcomes
+--------
+1. Jupyter Notebook
+2. Power BI dashoard
+3. Presentation
